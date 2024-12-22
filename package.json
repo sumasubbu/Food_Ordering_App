@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "A web app built using React to order food online",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
